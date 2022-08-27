@@ -1,7 +1,7 @@
 'use strict';
 var __decorate =
   (this && this.__decorate) ||
-  function(decorators, target, key, desc) {
+  function (decorators, target, key, desc) {
     var c = arguments.length,
       r =
         c < 3
@@ -20,7 +20,7 @@ var __decorate =
   };
 var __metadata =
   (this && this.__metadata) ||
-  function(k, v) {
+  function (k, v) {
     if (typeof Reflect === 'object' && typeof Reflect.metadata === 'function')
       return Reflect.metadata(k, v);
   };

@@ -24,7 +24,7 @@
 
 ## 概要
 
-すばやくスケーラブルなサーバーサイドアプリケーションを構築するための革新的な<a href="http://nodejs.org" target="_blank">Node.js</a>フレームワークです。最新のJavaScriptを使用し、<a href="http://www.typescriptlang.org" target="_blank">TypeScript</a>（JavaScriptを拡張したスーパーセット）で構築され 、OOP（オブジェクト指向プログラミング）、FP（関数型プログラミング）、およびFRP（関数型リアクティブプログラミング）の要素を取り入れています。
+すばやくスケーラブルなサーバーサイドアプリケーションを構築するための革新的な<a href="http://nodejs.org" target="_blank">Node.js</a>フレームワークです。最新の JavaScript を使用し、<a href="http://www.typescriptlang.org" target="_blank">TypeScript</a>（JavaScript を拡張したスーパーセット）で構築され 、OOP（オブジェクト指向プログラミング）、FP（関数型プログラミング）、および FRP（関数型リアクティブプログラミング）の要素を取り入れています。
 
 <p>Nestは<a href="https://expressjs.com/" target="_blank">Express</a>(デフォルト)や<a href="https://github.com/fastify/fastify" target="_blank">Fastify</a>などのさまざまなライブラリとの互換性を提供することで、たくさんのサードパーティプラグインを簡単に使用することができます。
 </p>
@@ -39,32 +39,32 @@
 
 ## はじめに
 
-* To check out the [guide](https://docs.nestjs.com), visit [docs.nestjs.com](https://docs.nestjs.com). :books:
-* 要查看中文 [指南](readme_zh.md), 请访问 [docs.nestjs.cn](https://docs.nestjs.cn). :books:
-* [가이드](readme_kr.md) 문서는 [docs.nestjs.com](https://docs.nestjs.com)에서 확인하실 수 있습니다. :books:
-* [ガイド](readme_jp.md)は [docs.nestjs.com](https://docs.nestjs.com)でご確認ください。 :books:
+- To check out the [guide](https://docs.nestjs.com), visit [docs.nestjs.com](https://docs.nestjs.com). :books:
+- 要查看中文 [指南](readme_zh.md), 请访问 [docs.nestjs.cn](https://docs.nestjs.cn). :books:
+- [가이드](readme_kr.md) 문서는 [docs.nestjs.com](https://docs.nestjs.com)에서 확인하실 수 있습니다. :books:
+- [ガイド](readme_jp.md)は [docs.nestjs.com](https://docs.nestjs.com)でご確認ください。 :books:
 
 ## 質問
 
-質問やサポートについては、公式の[Discordチャンネル](https://discord.gg/G7Qnnhy)を使用してください。また、このリポジトリのissueリストは、バグレポートと機能リクエスト **専用** です。
+質問やサポートについては、公式の[Discord チャンネル](https://discord.gg/G7Qnnhy)を使用してください。また、このリポジトリの issue リストは、バグレポートと機能リクエスト **専用** です。
 
 ## イシュー(Issues)
 
-issueを作成する前に、必ず[Issue Reporting Checklist](https://github.com/nestjs/nest/blob/master/CONTRIBUTING.md#-submitting-an-issue)をお読みください。ガイドラインに準拠していないissueは、クローズされる場合があります。
+issue を作成する前に、必ず[Issue Reporting Checklist](https://github.com/nestjs/nest/blob/master/CONTRIBUTING.md#-submitting-an-issue)をお読みください。ガイドラインに準拠していない issue は、クローズされる場合があります。
 
 ## コンサルティング
 
-公式サポートを利用することで、Nestコアチームからのテクニカルサポート、移行戦略、ベストプラクティスの提供、アーキテクチャの相談、PRレビュー、メンタリングを受けることができます。詳しくは[こちら](https://enterprise.nestjs.com)をご覧ください。
+公式サポートを利用することで、Nest コアチームからのテクニカルサポート、移行戦略、ベストプラクティスの提供、アーキテクチャの相談、PR レビュー、メンタリングを受けることができます。詳しくは[こちら](https://enterprise.nestjs.com)をご覧ください。
 
 ## サポート
 
-Nestは、MITライセンスのオープンソースプロジェクトです。スポンサーと支援者による素晴らしいサポートによって、その発展を支えられています。参加したい場合は[こちら](https://docs.nestjs.com/support)をご覧ください。
+Nest は、MIT ライセンスのオープンソースプロジェクトです。スポンサーと支援者による素晴らしいサポートによって、その発展を支えられています。参加したい場合は[こちら](https://docs.nestjs.com/support)をご覧ください。
 
 ## 連絡先
 
-* Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-* Website - [https://nestjs.com](https://nestjs.com/)
-* Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- Website - [https://nestjs.com](https://nestjs.com/)
+- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## ライセンス
 
