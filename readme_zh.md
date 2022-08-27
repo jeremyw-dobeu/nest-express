@@ -5,7 +5,7 @@
 [travis-url]: https://travis-ci.org/nestjs/nest
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
-  
+
  <p align="center">用于构建高效且可扩展的服务器端应用程序的渐进式 <a href="http://nodejs.cn" target="blank">Node.js</a> 框架，深受 <a href="https://angular.cn" target="_blank">Angular</a> 的启发。</p> 
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
@@ -20,7 +20,6 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
 
 ### [English](Readme.md)
 
@@ -37,21 +36,21 @@
 
 ## 开始
 
-* 要查看 [指南](https://docs.nestjs.cn), 请访问 [docs.nestjs.cn](https://docs.nestjs.cn). :books:
-* 要查看 [English指南](https://docs.nestjs.com), 请访问 [docs.nestjs.com](https://docs.nestjs.com). :books:
+- 要查看 [指南](https://docs.nestjs.cn), 请访问 [docs.nestjs.cn](https://docs.nestjs.cn). :books:
+- 要查看 [English 指南](https://docs.nestjs.com), 请访问 [docs.nestjs.com](https://docs.nestjs.com). :books:
 
 ### 国内开发者交流群
 
-QQ群：277386223
-QQ群：336289049
-QQ群：489719517
+QQ 群：277386223
+QQ 群：336289049
+QQ 群：489719517
 
 > 注意：这个交流群不是 NestJS 官方支持和维护的，只是为了方便国内开发者交流而建立的。  
 > （Note: This channel is not officially supported and maintained by the NestJS org members.）
 
 ## 赞助商
 
-Nest是一个MIT许可的开源项目。它的发展得益于赞助商和支持者的支持。如果你想加入他们，请[查看更多](https://opencollective.com/nest)。谢谢！ :heart_eyes:
+Nest 是一个 MIT 许可的开源项目。它的发展得益于赞助商和支持者的支持。如果你想加入他们，请[查看更多](https://opencollective.com/nest)。谢谢！ :heart_eyes:
 
 ## 支持者
 
@@ -59,10 +58,10 @@ Nest是一个MIT许可的开源项目。它的发展得益于赞助商和支持�
 
 ## 相关人员
 
-* 作者 - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-* 网站 - [https://nestjs.com](https://nestjs.com/)
-* Twitter - [@nestframework](https://twitter.com/nestframework)
+- 作者 - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- 网站 - [https://nestjs.com](https://nestjs.com/)
+- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
-  Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](LICENSE).
